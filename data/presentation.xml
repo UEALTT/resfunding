@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="Flow1" width="780.0000000" height="568.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{FD3E7738-61F8-4606-B05D-BFD773915FEE}">
+<presentation title="Flow1" width="780.0000000" height="568.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{CD997635-30FC-4ABB-870C-3BBBDFAC07B6}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -137,7 +137,7 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="3971" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="3960" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -163,7 +163,7 @@ Confirm costings and seek approvals
 Submit research application and deal with panel feedback
 RESEARCH FUNDING APPLICATION PROCESS</text>
 		</slide>
-		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="6412" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="6401" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -213,7 +213,7 @@ Write the research proposal
 Confirm costings and seek approvals
 Submit research application and deal with panel feedback</text>
 		</slide>
-		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="5043" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="5031" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -251,7 +251,7 @@ Write the research proposal
 Confirm costings and seek approvals
 Submit research application and deal with panel feedback</text>
 		</slide>
-		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="7342" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="7354" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -297,7 +297,7 @@ Write the research proposal
 Confirm costings and seek approvals
 Submit research application and deal with panel feedback</text>
 		</slide>
-		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="5928" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="5917" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -341,7 +341,7 @@ Write the research proposal
 Confirm costings and seek approvals
 Submit research application and deal with panel feedback</text>
 		</slide>
-		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="5411" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="5427" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -384,7 +384,7 @@ Write the research proposal
 Confirm costings and seek approvals
 Submit research application and deal with panel feedback</text>
 		</slide>
-		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="6434" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="6442" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -425,7 +425,7 @@ Write the research proposal
 Confirm costings and seek approvals
 Submit research application and deal with panel feedback</text>
 		</slide>
-		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="5444" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="5466" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
