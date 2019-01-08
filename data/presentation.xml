@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="Flow1" width="780.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{5815B2D5-0BBD-4228-94A5-516C251711CF}">
+<presentation title="Flow1" width="780.0000000" height="568.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{FD3E7738-61F8-4606-B05D-BFD773915FEE}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -137,7 +137,33 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="2968" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="3971" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Click on the headings below for more information on the steps for developing a research application, the organisations to contact and the support available from the East of England Research Design Service (RDS)
+
+The research funding application process is not linear; there are various feedback loops and some steps happen in parallel
+
+For PDF version click here
+Develop a research question; perform a literature review
+Consider the funding programme
+Build the team and alert organisations
+Decide on study design, develop methods
+Write the research proposal
+Confirm costings and seek approvals
+Submit research application and deal with panel feedback
+RESEARCH FUNDING APPLICATION PROCESS</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="6412" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -155,7 +181,30 @@ Click on the headings below for more information on the steps for developing a r
 The research funding application process is not linear; there are various feedback loops and some steps happen in parallel
 
 For PDF version click here
+Develop a research question; perform a literature review
 Steps for research team
+Develop a search strategy
+Search electronic resources for completed and ongoing systematic reviews, primary studies, guidelines, policies 
+Review evidence to: outline what is known/unknown about the problem; ensure novelty; refine and justify question; inform methods; describe current practice/pathways
+Ensure idea is academically sound, important and practicable within the health &amp; social care system
+Present a strong case for the research drawing on literature and clinical expertise
+Other organisations / people to contact
+
+Ask institutional librarian for help with literature search
+Discuss and refine question with:
+Colleagues
+public involvement contributors (service users, national charities, INVOLVE, special interest groups)
+Clinical Research Network (CRN) specialty groups
+Clinical Trials Unit (CTU)
+NHS and social care partners: commissioners, providers and research office
+RDS Support – contact us early
+
+RDS advisers can:
+
+advise on the literature review (search and appraisal) 
+help you to translate an idea into a focused question
+consider whether the question is adequately justified, ethical, feasible to address in the time period 
+help you to plan and facilitate public involvement activities, and identify individuals &amp; groups to work with
 Develop a research question; perform a literature review
 Consider the funding programme
 Build the team and alert organisations
@@ -164,7 +213,7 @@ Write the research proposal
 Confirm costings and seek approvals
 Submit research application and deal with panel feedback</text>
 		</slide>
-		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="5272" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="5043" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -182,35 +231,243 @@ Click on the headings below for more information on the steps for developing a r
 The research funding application process is not linear; there are various feedback loops and some steps happen in parallel
 
 For PDF version click here
+Consider the funding programme
 Steps for research team
-Develop a research question; perform a literature 
-review
-Develop a search strategy
-Search electronic resources for completed and ongoing systematic reviews, primary studies, guidelines, policies 
-Review evidence to: outline what is known/unknown about the problem; ensure novelty; refine and justify question; inform methods; describe current practice/pathways
-Ensure idea is academically sound, important and practicable within the health &amp; social care system
-Present a strong case for the research drawing on literature and clinical expertise
-Ask institutional librarian for help with literature search
-Discuss and refine question with:
-Colleagues
-public involvement contributors (service users, national charities, INVOLVE, special interest groups)
-Clinical Research Network (CRN) specialty groups
-Clinical Trials Unit (CTU)
-NHS and social care partners: commissioners, providers and research office
-RDS advisers can 
+Read research programme webpages, director’s messages
+Other organisations / people to contact
 
-advise on the literature review (search and appraisal) 
-help you to translate an idea into a focused question
-consider whether the question is adequately justified, ethical, feasible to address in the time period 
-help you to plan and facilitate public involvement activities, and identify individuals &amp; groups to work with
+Contact funding programme manager if in doubt over remit: send a carefully drafted 1-2 page summary of the proposed project 
+RDS Support – contact us early
+
+RDS advisers can:
+
+check the proposed study is within scope of the targeted funding programme, or help to identify an alternative 
+advise on the requirements of funding programmes
+Develop a research question; perform a literature review
 Consider the funding programme
 Build the team and alert organisations
 Decide on study design, develop methods
 Write the research proposal
 Confirm costings and seek approvals
-Submit research application and deal with panel feedback
+Submit research application and deal with panel feedback</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="7342" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RESEARCH FUNDING APPLICATION PROCESS
+Click on the headings below for more information on the steps for developing a research application, the organisations to contact and the support available from the East of England Research Design Service (RDS)
+
+The research funding application process is not linear; there are various feedback loops and some steps happen in parallel
+
+For PDF version click here
+Build the team and alert organisations
+Steps for research team
+Form a team with the relevant breadth of expertise, taking account of funding limits
+Liaise early with departments impacted by research and with organisations responsible for costings, sponsorship, study planning and support
+Other organisations / people to contact
+
+Contact potential co-applicants, collaborators and departments impacted by planned research
+Request support from organisations in good time; their early involvement in planning and costings is essential e.g.: 
+commissioners, providers, research offices (NHS Trust, CCG, University), intellectual property (IP) manager
+CRN (CRN Study Support Service)
+CTU if appropriate
+Health Enterprise East (HEE) if appropriate
+
 RDS Support – contact us early
-Other organizations / people to contact</text>
+
+RDS advisers can:
+
+identify gaps in the team
+help source potential co-applicants
+Signpost to organisations that will provide essential support 
+Develop a research question; perform a literature review
+Consider the funding programme
+Build the team and alert organisations
+Decide on study design, develop methods
+Write the research proposal
+Confirm costings and seek approvals
+Submit research application and deal with panel feedback</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="5928" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RESEARCH FUNDING APPLICATION PROCESS
+Click on the headings below for more information on the steps for developing a research application, the organisations to contact and the support available from the East of England Research Design Service (RDS)
+
+The research funding application process is not linear; there are various feedback loops and some steps happen in parallel
+
+For PDF version click here
+Decide on study design, develop methods
+Steps for research team
+Consider where project sits in developmental pathway (e.g. intervention development, feasibility study, pilot followed by full scale study)
+Consider practical, ethical and regulatory aspects
+Consider methods e.g. sampling, recruitment, outcome measures, analysis, process evaluation
+Develop a public involvement plan, agree role descriptions
+Plan inventive ways to disseminate research findings
+Other organisations / people to contact
+
+Continue to review requirements as the methods evolve
+Seek any additional methodological and operational input (e.g. from statistician, health economist, qualitative, CTU, CRN, NHS managers, clinical departments impacted by research, public involvement contributors) 
+RDS Support – contact us early
+
+RDS advisers can:
+
+provide guidance on methods and signpost to an array of methodological resources
+point you to regulatory resources such as the MHRA guidance on Clinical Investigations of Medical Devices
+help you to develop your plans for continued public involvement throughout the lifespan of the project: this is essential for developing a study that is inclusive, practical to deliver and clearly described
+Develop a research question; perform a literature review
+Consider the funding programme
+Build the team and alert organisations
+Decide on study design, develop methods
+Write the research proposal
+Confirm costings and seek approvals
+Submit research application and deal with panel feedback</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="5411" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RESEARCH FUNDING APPLICATION PROCESS
+Click on the headings below for more information on the steps for developing a research application, the organisations to contact and the support available from the East of England Research Design Service (RDS)
+
+The research funding application process is not linear; there are various feedback loops and some steps happen in parallel
+
+For PDF version click here
+Write the research proposal
+Steps for research team
+Look at successful applications 
+Follow the application guidelines carefully
+Create a Gantt chart
+Ensure co-applicants comply with any requirements e.g. providing online CVs
+Other organisations / people to contact
+
+Request peer review of your application within your institution and from public involvement contributors
+Share application with involved organisations e.g. research offices, IP manager, CTU, CRN, HEE
+RDS Support – contact us early
+
+RDS advisers can:
+
+review drafts at any stage
+attend research team meetings, including meetings with fellowship advisors
+Inform you about other peer review opportunities: RDS bid development workshops and pre submission panels
+Develop a research question; perform a literature review
+Consider the funding programme
+Build the team and alert organisations
+Decide on study design, develop methods
+Write the research proposal
+Confirm costings and seek approvals
+Submit research application and deal with panel feedback</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="6434" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RESEARCH FUNDING APPLICATION PROCESS
+Click on the headings below for more information on the steps for developing a research application, the organisations to contact and the support available from the East of England Research Design Service (RDS)
+
+The research funding application process is not linear; there are various feedback loops and some steps happen in parallel
+
+For PDF version click here
+Confirm costings and seek approvals
+Steps for research team
+At an early stage, consult CRN and sponsor to ascertain the required timelines for obtaining sign off
+Provide sufficient detail about the study to permit accurate costings by relevant organisations
+Consult AcoRD document
+For single stage and stage 2 applications only, complete Schedule of Events Cost Attribution Tool (SoECAT) with sponsor and CRN AcoRD expert
+Other organisations / people to contact
+
+Work with, and seek approvals from relevant organisations in good time ahead of submission, including director of finance, head of department/senior manager, NHS and university research offices, CRN, CTU if involved
+RDS Support – contact us early
+
+RDS advisers can:
+
+consider the cost implications of your research design and help to identify ways of maximising value for money
+tell you who to contact for costings and approvals
+Develop a research question; perform a literature review
+Consider the funding programme
+Build the team and alert organisations
+Decide on study design, develop methods
+Write the research proposal
+Confirm costings and seek approvals
+Submit research application and deal with panel feedback</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="5444" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RESEARCH FUNDING APPLICATION PROCESS
+Click on the headings below for more information on the steps for developing a research application, the organisations to contact and the support available from the East of England Research Design Service (RDS)
+
+The research funding application process is not linear; there are various feedback loops and some steps happen in parallel
+
+For PDF version click here
+Submit research application and deal with panel feedback
+Steps for research team
+Respond to panel feedback from stage 1
+Generate and submit stage 2 application if applicable
+If unsuccessful, consider next steps
+Please send a copy of submitted stage 1 and 2 applications to RDS
+Please send a copy of any panel feedback to RDS
+Other organisations / people to contact
+
+Discuss panel feedback with co-applicants, public involvement contributors, CTU, research offices, CRN
+Work with these groups in developing stage 2 application (if applicable)
+Inform public involvement groups about the outcome of the application and the next steps
+RDS Support – contact us early
+
+RDS advisers can:
+
+go through the panel’s feedback with you and help to plan a way forward
+arrange a mock interview if required
+Develop a research question; perform a literature review
+Consider the funding programme
+Build the team and alert organisations
+Decide on study design, develop methods
+Write the research proposal
+Confirm costings and seek approvals
+Submit research application and deal with panel feedback</text>
 		</slide>
 	</slides>
 </presentation>
